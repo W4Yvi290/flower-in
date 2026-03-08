@@ -1,12 +1,13 @@
 *,
 .title{
   position: absolute;
-  top: 20%;
-  color: FC7CF2;
+  top: 10%;
+  left: 50%;
+  transform: translateX(-50%);
+  color: white;
   font-size: 40px;
   font-family: cursive;
   z-index: 1000;
-  text-align: center;
 }
 .greeting{
   position: absolute;
