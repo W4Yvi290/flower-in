@@ -1,4 +1,12 @@
 *,
+.title{
+  position: absolute;
+  top: 20%;
+  color: white;
+  font-size: 40px;
+  font-family: cursive;
+  text-align: center;
+}
 .greeting{
   position: absolute;
   top: 10%;
